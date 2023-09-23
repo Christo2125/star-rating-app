@@ -1,3 +1,6 @@
+*{
+user-select: none;
+}
 .stars{
     display: inline-block;
     font-size: 3rem;
